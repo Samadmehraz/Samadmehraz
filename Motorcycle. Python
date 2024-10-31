@@ -1,0 +1,14 @@
+motorcycle = ('CD70', 'CD125', 'CD110', 'YBR')
+print("our shop name is HONDA")
+print(type(motorcycle))
+print(len(motorcycle))
+Enter_shop = input(f"enter the name of product")
+Enter_price = input("Enter the price according to the product")
+if Enter_shop in motorcycle 
+print("product is available")
+print("Thank you for your coming")
+else 
+print("not available")
+
+print(" Thank you for your choice in HONDA SHOP")
+Is right?
